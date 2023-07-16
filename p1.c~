@@ -1,0 +1,7 @@
+#include <iostream.h>
+#include "airth.h"
+int main()
+{
+	cout<<say_hello("aman")<<endl;
+	return 0;
+}

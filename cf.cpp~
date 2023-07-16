@@ -1,0 +1,8 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int ch='0';
+	cout<<ch<<endl;
+	return 0;
+}

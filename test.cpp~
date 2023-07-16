@@ -1,0 +1,8 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int x=157;
+	printf("%8o,%5x",x,x);
+	return 0;
+}
